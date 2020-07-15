@@ -1,11 +1,9 @@
-### Hi there 👋
-
 <!--
 **MBanuelos/MBanuelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-
-<h2> Hi, I'm Mario Banuelos! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif" width="230">
+<h2> Hi, I'm Mario Banuelos! <img src="https://media.giphy.com/media/75LbfyrcmfOp2/giphy.gif" width="30"></h2>
+<img align='right' src="https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif" width="250">
 <p><em> Assistant Professor of Mathematics at <a href="https://www.fresnostate.edu">Fresno State</a><img 
 </em></p>
 
@@ -14,7 +12,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/MBanuelos?label=follow&style=social)](https://github.com/MBanuelos)
 
 
-### <img src="https://media.giphy.com/media/tPKoWQJk3cEbC/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/Dq5YmrTZAMnu/giphy.gif" width="30"> A little more about me...  
 
 ```python
 class Mathematician:
@@ -36,8 +34,6 @@ mb = Mathematician(
     communities = ['SIAM', 'SACNAS', 'LXAI', 'IEEE'],
     final_form = 1
 )
-
-mb.transform()
 ```
 
 <em>If you are interested in being a part of my research group, collaborating, or just have questions, please shoot me an email or visit my <a href="https://www.mbgmath.com"> website! </a> </em>
