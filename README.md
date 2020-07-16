@@ -10,8 +10,6 @@
 [![Twitter: mbanuelos22](https://img.shields.io/twitter/follow/mbanuelos22?style=social)](https://twitter.com/mbanuelos22)
 [![Linkedin: mariobanuelos](https://img.shields.io/badge/-mariobanuelos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-banuelos-0199617b)](https://www.linkedin.com/in/mario-banuelos-0199617b)
 [![GitHub Mario](https://img.shields.io/github/followers/MBanuelos?label=follow&style=social)](https://github.com/MBanuelos)
-[![Website MBG](mbg2020Asset.png")](https://www.mbgmath.com)
-
 
 ### <img src="https://media.giphy.com/media/Dq5YmrTZAMnu/giphy.gif" width="30"> A little more about me...  
 
@@ -37,6 +35,6 @@ mb = Mathematician(
 )
 ```
 
-<em>If you are interested in being a part of my research group, collaborating, or just have questions, please shoot me an email or visit my <a href="https://www.mbgmath.com"> website! </a> </em>
+<em>If you are interested in being a part of my research group, collaborating, or just have questions, please feel free to get in contact or visit <a href="https://www.mbgmath.com"> <img src=mbg2020Asset.png width="50"/> </a> </a> </em>
 
 ---
