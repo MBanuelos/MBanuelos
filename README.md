@@ -37,6 +37,6 @@ mb = Mathematician(
 
 <em>If you are interested in being a part of my research group, collaborating, or just have questions, please feel free to get in contact.</em>
 
-<a href="https://www.mbgmath.com"> <img align="right" src=mbg2020Asset.png width="75"/> </a>
+<a href="https://www.mbgmath.com"> <img align="right" src="mbg2020Asset.png" width="75"/> </a>
 
 ---
