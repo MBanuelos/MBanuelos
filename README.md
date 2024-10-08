@@ -4,7 +4,7 @@
 
 <h2> Hi, I'm Mario Bañuelos! <img src="https://media.giphy.com/media/75LbfyrcmfOp2/giphy.gif" width="30"></h2>
 <img align='right' src="https://media.giphy.com/media/xT5LMLSOH2YuR4TU2Y/giphy.gif" width="180">
-<p><em> Assistant Professor of Mathematics at <a href="https://www.fresnostate.edu">Fresno State</a><img 
+<p><em> Associate Professor of Mathematics at <a href="https://www.fresnostate.edu">Fresno State</a><img 
 </em></p>
 
 [![Twitter: mbanuelos22](https://img.shields.io/twitter/follow/mbanuelos22?style=social)](https://twitter.com/mbanuelos22)
