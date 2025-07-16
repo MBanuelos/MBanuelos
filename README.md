@@ -7,7 +7,6 @@
 <p><em> Associate Professor of Mathematics at <a href="https://www.fresnostate.edu">Fresno State</a><img 
 </em></p>
 
-[![Twitter: mbanuelos22](https://img.shields.io/twitter/follow/mbanuelos22?style=social)](https://twitter.com/mbanuelos22)
 [![Linkedin: mariobanuelos](https://img.shields.io/badge/-mariobanuelos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-banuelos-0199617b)](https://www.linkedin.com/in/mario-banuelos-0199617b)
 [![GitHub Mario](https://img.shields.io/github/followers/MBanuelos?label=follow&style=social)](https://github.com/MBanuelos)
 
