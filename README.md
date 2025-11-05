@@ -3,11 +3,12 @@
 -->
 
 <h2> Hi, I'm Mario Bañuelos! <img src="https://media.giphy.com/media/75LbfyrcmfOp2/giphy.gif" width="30"></h2>
-<img align='right' src="https://media.giphy.com/media/xT5LMLSOH2YuR4TU2Y/giphy.gif" width="180">
+
 <p><em> Associate Professor of Mathematics at <a href="https://www.fresnostate.edu">Fresno State</a><img 
 </em></p>
 
-[![Linkedin: mariobanuelos](https://img.shields.io/badge/-mariobanuelos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-banuelos-0199617b)](https://www.linkedin.com/in/mario-bañuelos-0199617b)
+[![Badge Alt Text](Badge Image URL)](https://www.mbgmath.com)
+[![Linkedin: mariobanuelos](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mario-bañuelos-0199617b)
 [![GitHub Mario](https://img.shields.io/github/followers/MBanuelos?label=follow&style=social)](https://github.com/MBanuelos)
 
 ### <img src="https://media.giphy.com/media/Dq5YmrTZAMnu/giphy.gif" width="30"> A little more about me...  
@@ -34,8 +35,5 @@ mb = Mathematician(
 )
 ```
 
-<em>If you are interested in being a part of my research group, collaborating, or just have questions, please feel free to get in contact.</em>
-
-<a href="https://www.mbgmath.com"> <img align="right" src="https://raw.githubusercontent.com/MBanuelos/MBanuelos/master/mbg2020Asset.png" width="75"/> </a>
-
+If you are interested in collaborating or just have questions, please reach out.
 ---
