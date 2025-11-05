@@ -7,7 +7,6 @@
 <p><em> Associate Professor of Mathematics at <a href="https://www.fresnostate.edu">Fresno State</a><img 
 </em></p>
 
-[![Badge Alt Text](Badge Image URL)](https://www.mbgmath.com)
 [![Linkedin: mariobanuelos](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mario-bañuelos-0199617b)
 [![GitHub Mario](https://img.shields.io/github/followers/MBanuelos?label=follow&style=social)](https://github.com/MBanuelos)
 
@@ -35,5 +34,4 @@ mb = Mathematician(
 )
 ```
 
-If you are interested in collaborating or just have questions, please reach out.
----
+<p> If you are interested in collaborating or just have questions, please reach out. </p>
